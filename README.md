@@ -10,7 +10,7 @@ Following a genuine stubborn interest of how things are made and work, I let the
   - Node.JS, 
   - React.JS and 
   - MongoDB;
-- ✨ Ask me about how I'm being in parenthood;
+- ✨ Ask me about how I'm going on parenthood;
 - 📫 Send-me an [email](mailto:saboya.gustavo@gmail.com)!
 - 😄 Pronouns: He, him, his;
 - 🌅 Fun fact: I like to start my days before the dawn.

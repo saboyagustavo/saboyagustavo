@@ -9,19 +9,20 @@
   </table>
 </center>
 
+### Hello, world!
+---
+  Fomerly graduated in Art Direction, area of knowledge that allowed me to improve strategic vision and critical sense, vital skills to find solutions with creativity and planning. Always curious and a lover of new technologies, **in early 2020 I've shifted career to IT** and delved into the JavaScript ecosystem.  
+Following a genuine stubborn interest of how things are made and work, I let the questions sprout as I look foward to learn __more__.
+### What's up?
+- :Books I'm currently stuyding System Analysis and Development
+- 🔭 I’m currently [open to work](https://www.linkedin.com/in/saboyagustavo/);
+- 🌱 I’m currently learning Full Stack Web Development with Node.JS, React.JS and MongoDB;
+- ✨ Ask me about how I'm being in parenthood;
+- 📫 Send-me an [email](mailto:saboya.gustavo@gmail.com)!
+- 😄 Pronouns: He, him, his;
+- :Sunrise Fun fact: I like to start my days before the dawn.
+
 <!--
-**saboyagustavo/saboyagustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**saboyagustavo/saboyagustavo** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+- 👯 I’m looking to collaborate on
 -->

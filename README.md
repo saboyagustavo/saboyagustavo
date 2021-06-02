@@ -4,9 +4,9 @@
   Fomerly graduated in Art Direction, area of knowledge that allowed me to improve strategic vision and critical sense, vital skills to find solutions with creativity and planning. Always curious and a lover of new technologies, **in early 2020 I've shifted career to IT** and delved into the JavaScript ecosystem.  
 Following a genuine stubborn interest of how things are made and work, I let the questions sprout as I look foward to learn __more__.
 ### What's up?
-- 📚 I'm currently studying System Analysis and Development
-- 🔭 I’m currently [open to work](https://www.linkedin.com/in/saboyagustavo/);
-- 🌱 I’m currently learning Full Stack Web Development with 
+- 📚 I'm currently studying System Analysis and Development;
+- 🔭 I’m currently working as a Full Stack Developer at [Trinus CO](https://www.linkedin.com/in/saboyagustavo/), the First LandTech in the World;
+- 🌱 I’m currently learning Web Development with 
   - TypeScript
   - Node.js
     - AdonisJS
@@ -17,6 +17,7 @@ Following a genuine stubborn interest of how things are made and work, I let the
     - MongoDB
 - ✨ Ask me about how I'm going on parenthood;
 - 📫 Send-me an [email](mailto:saboya.gustavo@gmail.com)!
+- 🔗 Contact-me via [LinkedIn](https://www.linkedin.com/in/saboyagustavo/)!
 - 😄 Pronouns: He, him, his;
 - 🌅 Fun fact: I like to start my days before the dawn.
 

@@ -7,9 +7,14 @@ Following a genuine stubborn interest of how things are made and work, I let the
 - 📚 I'm currently studying System Analysis and Development
 - 🔭 I’m currently [open to work](https://www.linkedin.com/in/saboyagustavo/);
 - 🌱 I’m currently learning Full Stack Web Development with 
-  - Node.JS, 
-  - React.JS and 
-  - MongoDB;
+  - TypeScript
+  - Node.js
+    - AdonisJS
+    - Express
+  - ReactJS and Next.js 
+  - Database
+    - PostgreSQL 14
+    - MongoDB
 - ✨ Ask me about how I'm going on parenthood;
 - 📫 Send-me an [email](mailto:saboya.gustavo@gmail.com)!
 - 😄 Pronouns: He, him, his;

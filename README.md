@@ -6,7 +6,7 @@ Following a genuine stubborn interest of how things are made and work, I let the
 ### What's up?
 - 📚 I'm currently studying System Analysis and Development;
 - 🔭 I’m currently working as a Full Stack Developer at [Trinus CO](https://www.linkedin.com/in/saboyagustavo/), the First LandTech in the World;
-- 🌱 I’m continuosly improving my Web Development skills with 
+- 🌱 I’m continuously improving my Web Development skills with 
   - TypeScript
   - Node.js
     - Express

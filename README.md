@@ -6,15 +6,17 @@ Following a genuine stubborn interest of how things are made and work, I let the
 ### What's up?
 - 📚 I'm currently studying System Analysis and Development;
 - 🔭 I’m currently working as a Full Stack Developer at [Trinus CO](https://www.linkedin.com/in/saboyagustavo/), the First LandTech in the World;
-- 🌱 I’m currently learning Web Development with 
+- 🌱 I’m continuosly improving my Web Development skills with 
   - TypeScript
   - Node.js
-    - AdonisJS
     - Express
+    - AdonisJS
   - ReactJS and Next.js 
   - Database
+    - SQL Server
     - PostgreSQL 14
     - MongoDB
+    - Cosmos DB
 - ✨ Ask me about how I'm going on parenthood;
 - 📫 Send-me an [email](mailto:saboya.gustavo@gmail.com)!
 - 🔗 Contact-me via [LinkedIn](https://www.linkedin.com/in/saboyagustavo/)!

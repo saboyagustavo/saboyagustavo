@@ -6,7 +6,7 @@
   Following a genuine stubborn interest in how things are made and work, I let the questions sprout as I look forward to learning _more_. 
 ### What's up?
 - 🎓 System Analysis and Development graduate;
-- 🔭 Full Stack Developer at [Trinus CO](https://www.linkedin.com/in/saboyagustavo/), the First LandTech in the World;
+- 🔭 Full Stack Developer at [Fyld](https://www.fyld.pt/), a Portuguese IT consultancy;
 - 🌀 Studying Full Cycle Development
 - 🛠 Continuously improving my skills in:
   - Scalable, secure, and resilient applications
